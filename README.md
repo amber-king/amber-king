@@ -7,19 +7,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amber-king" alt="amber-king" /></a> </p>
 
-- 🔭 I’m currently working on **developing more proficent coding skills through practice and projects through Pursuit**
+- 🔭 I’m currently working on ➡️ **developing more proficent coding skills through practice and projects through Pursuit**
 
-- 🌱 I’m currently learning **Complex JavaScript Methods,Reading and Understanding code**
+- 🌱 I’m currently learning ➡️ **Complex JavaScript Methods,Reading and Understanding code**
 
 - 👨‍💻 All of my projects are available at ➡️ https://github.com/amber-king
 
 - 🤓Lets Code Together W/ Codewars ➡️ https://www.codewars.com/users/amber-king
 
-- 📫 How to reach me **amber.king9292@gmail.com**
+- 📫 How to reach me ➡️ **amber.king9292@gmail.com**
 
 - 📄 Know about my experiences ➡️ https://www.linkedin.com/in/amber-king-6210b0126/
 
-- ⚡ Fun fact **I enjoy writing poetry in my spare time**
+- ⚡ Fun fact ➡️ **I enjoy writing poetry in my spare time**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
