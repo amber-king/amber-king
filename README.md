@@ -1,4 +1,5 @@
 [![Masterhead](https://ardinpatterson.files.wordpress.com/2020/05/typing-girl.gif?w=400&h=224&crop=1)
+<div id="Masterhead" align="center"> </div>
 <h1 align="center">Hi 👋🏾, I'm Amber K.</h1>
 <h3 align="center">A up and coming tech engineer with the passion for learning</h3>
 
