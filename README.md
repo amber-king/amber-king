@@ -11,13 +11,13 @@
 
 - 🌱 I’m currently learning **Complex JavaScript Methods,Reading and Understanding code**
 
-- 👨‍💻 All of my projects are available at [https://github.com/amber-king](https://github.com/amber-king)
+- 👨‍💻 All of my projects are available at ➡️ https://github.com/amber-king
 
-- Lets Code Together🤓 [https://www.codewars.com/users/amber-king/badges/micro](https://www.codewars.com/users/amber-king/badges/micro)
+- 🤓Lets Code Together W/ Codewars ➡️ https://www.codewars.com/users/amber-king
 
 - 📫 How to reach me **amber.king9292@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/amber-king-6210b0126/](https://www.linkedin.com/in/amber-king-6210b0126/)
+- 📄 Know about my experiences ➡️ https://www.linkedin.com/in/amber-king-6210b0126/
 
 - ⚡ Fun fact **I enjoy writing poetry in my spare time**
 
