@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi 👋🏾, I'm Amber K.</h1>
 <h3 align="center">A up and coming tech engineer with the passion for learning</h3>
+<p align="left"> <img src="https://media.tenor.com/tOoW-TVnlhUAAAAC/cat-typing.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amber-king&label=Profile%20views&color=0e75b6&style=flat" alt="amber-king" /> </p>
 
