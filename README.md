@@ -12,9 +12,11 @@
 
 - 🌱 I’m currently learning ➡️ **Complex JavaScript Methods,Reading and Understanding code**
 
-- 👨‍💻 All of my projects are available at ➡️ https://github.com/amber-king
+- 👩🏾‍💻 All of my projects are available at ➡️ https://github.com/amber-king
 
-- 🤓Lets Code Together W/ Codewars ➡️ https://www.codewars.com/users/amber-king
+- 🤓Lets Code Together W/ <br>
+↪️Codewars ➡️ https://www.codewars.com/users/amber-king <br>
+↪️LeetCode ➡️ https://leetcode.com/amber-king/
 
 - 📫 How to reach me ➡️ **amber.king9292@gmail.com**
 
