@@ -20,7 +20,7 @@
 
 - 📫 How to reach me ➡️ **amber.king9292@gmail.com**
 
-- 📄 Know about my experiences ➡️ https://www.linkedin.com/in/amber-king-6210b0126/
+- 📄 Know about my experiences ➡️ https://www.linkedin.com/in/amber-c-king/
 
 - ⚡ Fun fact ➡️ **I enjoy writing poetry in my spare time**
 
